@@ -1,4 +1,4 @@
-# Research Publication Management System — Desktop UI
+<img width="1512" height="878" alt="image" src="https://github.com/user-attachments/assets/574dc795-32f6-42f7-98d3-019410b2e12b" /># Research Publication Management System — Desktop UI
 
 This is a Java Swing + MySQL/JDBC application for all six project-member modules. The default application entry point (`org.example.Main`) now opens a graphical dashboard with tabs for Overview, Faculty, Publications, Co-authors, Indexing, Reports, and Analytics. The previous terminal menu is preserved as `org.example.ConsoleMain`.
 
@@ -168,4 +168,15 @@ The SQL setup script uses `CREATE TABLE IF NOT EXISTS`; it is designed to add mi
 
 ## Outputs
 <img width="1624" height="989" alt="image" src="https://github.com/user-attachments/assets/e2babbff-a116-48ee-9a12-01f2142fe351" />
-
+<img width="1624" height="989" alt="image" src="https://github.com/user-attachments/assets/556477ba-f721-4231-b7eb-63ea7b9d57b4" />
+<img width="1512" height="878" alt="image" src="https://github.com/user-attachments/assets/1c0ccc79-04df-44cd-803c-3555ad15327d" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/7ee06916-9476-44f7-8b6a-ab7dbf308eb7" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/ed3563dd-f28f-4754-9b25-e02a63fa4e5e" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/0afe2481-fe1b-45d3-b617-d76c923285cb" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/d9d6b154-f063-4ac2-a3c3-a4320ab6e4b8" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/c1c69cef-eefb-4984-ac03-66d29af20109" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/0297a1b4-2f35-4394-b7e2-cd5bbd479d04" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/e4752234-eb9b-42b4-9902-e8b7846b1de2" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/29738365-b7d9-43e7-b34a-c3cca77e5613" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/7495177c-d8fa-403f-8255-67d05a587c8d" />
+<img width="1509" height="872" alt="image" src="https://github.com/user-attachments/assets/3a0233d5-eff7-446c-98fd-3604fac566ee" />
