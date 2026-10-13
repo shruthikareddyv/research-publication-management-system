@@ -1,0 +1,18 @@
+# Maven and Java build files
+target/
+out/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Local credentials
+.env
+.env.*
+
+# Generated reports and logs
+*.csv
+*.log
