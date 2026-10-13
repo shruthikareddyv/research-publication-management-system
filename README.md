@@ -165,3 +165,7 @@ mvn -q compile exec:java -Dexec.args=--console
 ## Data safety note
 
 The SQL setup script uses `CREATE TABLE IF NOT EXISTS`; it is designed to add missing tables without dropping your existing tables or backend test records. The application performs changes only when you choose Add, Save, Update, or Delete actions in the UI.
+
+## Outputs
+<img width="1624" height="989" alt="image" src="https://github.com/user-attachments/assets/e2babbff-a116-48ee-9a12-01f2142fe351" />
+
