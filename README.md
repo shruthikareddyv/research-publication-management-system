@@ -1,4 +1,4 @@
-<img width="1512" height="878" alt="image" src="https://github.com/user-attachments/assets/574dc795-32f6-42f7-98d3-019410b2e12b" /># Research Publication Management System — Desktop UI
+## Research Publication Management System — Desktop UI
 
 This is a Java Swing + MySQL/JDBC application for all six project-member modules. The default application entry point (`org.example.Main`) now opens a graphical dashboard with tabs for Overview, Faculty, Publications, Co-authors, Indexing, Reports, and Analytics. The previous terminal menu is preserved as `org.example.ConsoleMain`.
 
